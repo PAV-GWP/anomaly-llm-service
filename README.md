@@ -57,7 +57,7 @@ anomaly_llm_service/
 
 ### 1. Клонирование репозитория и переход в проект
 ```bash
-git clone [https://github.com/ВАШ_НИКНЕЙМ/anomaly-llm-service.git](https://github.com/ВАШ_НИКНЕЙМ/anomaly-llm-service.git)
+git clone [https://github.com/PAV-GWP/anomaly-llm-service.git](https://github.com/PAV-GWP/anomaly-llm-service.git)
 cd anomaly-llm-service
 ```
 
