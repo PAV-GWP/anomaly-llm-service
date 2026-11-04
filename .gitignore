@@ -1,0 +1,14 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Секреты и ключи
+.env
+
+# Локальная база данных
+metrics.db
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
